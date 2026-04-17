@@ -1,4 +1,3 @@
-const API_URL_DEV = "http://localhost:3000";
 const API_URL = "https://ecommerce-api-ts.onrender.com";
 
 export const api = {
